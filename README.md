@@ -148,8 +148,8 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abdennabi-ahrrabi/Architectural-Patterns.git
-   cd Layered-Architecture-TodoApp
+   git clone https://github.com/abdennabi-ahrrabi/Layered-n-tier-Architecture.git
+   cd Layered-n-tier-Architecture
    ```
 
 2. **Build and run the application**:
