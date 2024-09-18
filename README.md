@@ -19,7 +19,6 @@ This project is a demonstration of the **Layered (n-tier) Architecture** pattern
 8. [Database Interaction](#database-interaction)
 9. [Future Enhancements](#future-enhancements)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ---
 
