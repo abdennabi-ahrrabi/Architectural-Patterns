@@ -148,7 +148,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Layered-Architecture-TodoApp.git
+   git clone https://github.com/abdennabi-ahrrabi/Architectural-Patterns.git
    cd Layered-Architecture-TodoApp
    ```
 
